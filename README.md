@@ -1,2 +1,1 @@
-# belajar-javascript
-Latihan bekerja dengan github
+Yang harus dipelajari untuk menjadi Menjadi seorang Web Developer
