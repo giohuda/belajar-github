@@ -1,7 +1,0 @@
-Yang harus dipelajari Web Developer
-- HTML
-- CSS
-- Fundamental Javascript
-- Modern Javascript ES6
-- Document Object Model
-- React Js
